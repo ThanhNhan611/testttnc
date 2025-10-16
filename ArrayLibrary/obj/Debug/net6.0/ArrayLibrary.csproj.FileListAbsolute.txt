@@ -1,0 +1,12 @@
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/bin/Debug/net6.0/ArrayLibrary.deps.json
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/bin/Debug/net6.0/ArrayLibrary.dll
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/bin/Debug/net6.0/ArrayLibrary.pdb
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ArrayLibrary.csproj.AssemblyReference.cache
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ArrayLibrary.AssemblyInfoInputs.cache
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ArrayLibrary.AssemblyInfo.cs
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ArrayLibrary.dll
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/refint/ArrayLibrary.dll
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ArrayLibrary.pdb
+/Users/nhan/Projects/ArrayLibrary/ArrayLibrary/obj/Debug/net6.0/ref/ArrayLibrary.dll
